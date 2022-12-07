@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/digital_watchman/static/css/main.756af292.css",
+    "main.js": "/digital_watchman/static/js/main.c0d7c920.js",
+    "static/js/787.91b48ed6.chunk.js": "/digital_watchman/static/js/787.91b48ed6.chunk.js",
+    "index.html": "/digital_watchman/index.html",
+    "main.756af292.css.map": "/digital_watchman/static/css/main.756af292.css.map",
+    "main.c0d7c920.js.map": "/digital_watchman/static/js/main.c0d7c920.js.map",
+    "787.91b48ed6.chunk.js.map": "/digital_watchman/static/js/787.91b48ed6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.756af292.css",
+    "static/js/main.c0d7c920.js"
+  ]
+}
